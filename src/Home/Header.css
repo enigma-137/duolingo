@@ -51,16 +51,18 @@
     margin-right: 28%;
     margin-top: 2rem;
     font-weight: 700;
-    box-shadow: 5px 10px 18px #8ab6db;
+    box-shadow: 5px 7px 5px #8ab6db;
     font-size: 0.9rem;
 
   }
   .header-btn:hover  {
-
-    filter: saturate(12px);
+    color: black;
+  
+    background: greenyellow;
   }
   .header-btn2:hover  {
-    filter: saturate(12px);
+    background: rgb(107, 156, 240);
+    color: black;
   }
 /* .header__left img {
     height: 34rem;
